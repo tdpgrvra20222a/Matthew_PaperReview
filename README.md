@@ -20,7 +20,7 @@ Exergaming mulai menarik perhatian <br>
 &emsp; - Karena dilakukan di dalam ruangan, maka terdapat resiko bertabraknya pengguna dengan barang di sekitar lokasi kegiatan Exergaming
 
 <H3>Tujuan:</H3>
-Menklarifikasi bagaimana fitur perangkat VR dan MR memengaruhi pengguna selama melakukan Exergaming
+Menklarifikasi bagaimana fitur perangkat VR dan MR mempengaruhi pengguna selama melakukan Exergaming
 
 <H3>Method:</H3>
 Membuat sebuah game dengan fitur yang sama seperti VRWorkout di Hololens2 <br>
